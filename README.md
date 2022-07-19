@@ -1,2 +1,2 @@
-# Typing-game
-Typing game to make a cypher
+# Terrarium
+Choose your flower to create your terrarium
